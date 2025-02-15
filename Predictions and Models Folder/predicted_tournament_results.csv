@@ -1,0 +1,14 @@
+Round,Team1,Team2,Predicted Goals Team1,Predicted Goals Team2,Winner
+Round of 16,Mexico,Costa Rica,1.1780952380952383,0.9689761904761904,Mexico
+Round of 16,Brazil,France,1.6316861471861475,1.7785725108225108,France
+Round of 16,Spain,Portugal,0.9691666666666666,0.4516666666666667,Spain
+Round of 16,Netherlands,Italy,1.37,0.3966666666666667,Netherlands
+Round of 16,Argentina,Germany,0.8963333333333334,3.755166666666667,Germany
+Round of 16,Japan,England,1.3146666666666667,0.5723809523809522,Japan
+Round of 16,Denmark,Belgium,3.0579999999999994,1.8275,Denmark
+Quarterfinals,Mexico,France,2.1615714285714285,0.763904761904762,Mexico
+Quarterfinals,Spain,Netherlands,1.26,4.12,Netherlands
+Quarterfinals,Germany,Japan,1.575154761904762,1.3203571428571428,Germany
+Semifinals,Denmark,Mexico,0.9961666666666669,1.9799999999999998,Mexico
+Semifinals,Netherlands,Germany,1.5855714285714289,0.94325,Netherlands
+Final,Mexico,Netherlands,1.15,1.726,Netherlands

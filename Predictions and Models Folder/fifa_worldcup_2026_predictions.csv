@@ -1,0 +1,33 @@
+HomeTeam,score,AwayTeam,year,HomeTeamEncoded,AwayTeamEncoded,PredictedHomeGoals,PredictedAwayGoals,Winner
+USA,Match 1,Mexico,2026,-1,40,1.5072142857142858,1.2279007936507937,USA
+Canada,Match 2,Costa Rica,2026,11,15,0.7859999999999999,1.715,Costa Rica
+USA,Match 18,Canada,2026,-1,11,0.3775,0.972,Canada
+Mexico,Match 19,Costa Rica,2026,40,15,1.1737142857142857,1.1214761904761903,Mexico
+Costa Rica,Match 35,Canada,2026,15,11,2.525,1.225,Costa Rica
+Mexico,Match 36,USA,2026,40,-1,2.8233333333333333,0.008333333333333333,Mexico
+Brazil,Match 3,Argentina,2026,8,2,0.9933333333333333,0.6933333333333332,Brazil
+France,Match 4,Germany,2026,26,27,1.8,1.2425,France
+Germany,Match 17,Argentina,2026,27,2,1.2733333333333334,0.6433333333333331,Germany
+Brazil,Match 20,France,2026,8,26,1.6316861471861475,1.7785725108225108,France
+Germany,Match 33,Brazil,2026,27,8,0.7913333333333332,1.7688333333333333,Brazil
+Argentina,Match 34,France,2026,2,26,1.8968452380952379,1.1930119047619046,Argentina
+Spain,Match 8,Japan,2026,67,39,1.2775,0.7440000000000001,Spain
+England,Match 7,Portugal,2026,24,52,1.123388888888889,0.44794444444444453,England
+Portugal,Match 22,Japan,2026,52,39,1.4533333333333331,1.015,Portugal
+Spain,Match 24,England,2026,67,24,1.0481666666666667,0.37566666666666665,Spain
+Portugal,Match 39,Spain,2026,52,67,2.48,2.28,Portugal
+Japan,Match 40,England,2026,39,24,1.1145833333333333,0.7588571428571429,Japan
+Netherlands,Match 6,Denmark,2026,42,20,1.8866666666666665,0.3283333333333333,Netherlands
+Italy,Match 5,Belgium,2026,36,5,3.2973333333333334,1.0333939393939393,Italy
+Denmark,Match 21,Belgium,2026,20,5,2.9433333333333334,1.6833333333333331,Denmark
+Italy,Match 23,Netherlands,2026,36,42,1.025,1.64,Netherlands
+Belgium,Match 37,Netherlands,2026,5,42,1.0841666666666667,0.365,Belgium
+Denmark,Match 38,Italy,2026,20,36,0.82,2.09,Italy
+Winners Group A,Match 49,Runners-up Group B,2026,-1,-1,1.21,0.55,Winners Group A
+Winners Group C,Match 50,Runners-up Group D,2026,-1,-1,1.21,0.55,Winners Group C
+Winners Group D,Match 52,Runners-up Group C,2026,-1,-1,1.21,0.55,Winners Group D
+Winners Group B,Match 51,Runners-up Group A,2026,-1,-1,1.21,0.55,Winners Group B
+Winners Match 57,Match 61,Winners Match 58,2026,-1,-1,1.21,0.55,Winners Match 57
+Winners Match 59,Match 62,Winners Match 60,2026,-1,-1,1.21,0.55,Winners Match 59
+Losers Match 61,Match 63,Losers Match 62,2026,-1,-1,1.21,0.55,Losers Match 61
+Winners Match 61,Match 64,Winners Match 62,2026,-1,-1,1.21,0.55,Winners Match 61
