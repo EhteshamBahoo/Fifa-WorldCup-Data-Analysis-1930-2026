@@ -30,28 +30,29 @@ This project involves **data scraping, data cleaning, predictive modeling, and k
 ✅ **Jupyter Notebook** – Development & testing environment  
 
 ---
-##🎯 Features & Workflow
-1️⃣ Scraping & Data Preprocessing
+## 🎯 Features & Workflow  
 
-Extracts FIFA World Cup match history (1930-2022) from Wikipedia
-Cleans and structures data into a usable format
-2️⃣ Fixture Generation
+### 1️⃣ Scraping & Data Preprocessing  
+- Extracts **FIFA World Cup match history (1930-2022)** from Wikipedia  
+- Cleans and structures data into a usable format  
 
-Generates possible 2026 group-stage fixtures
-Saves to fixtures_2026.csv
-3️⃣ Machine Learning Model Training
+### 2️⃣ Fixture Generation  
+- Generates **possible 2026 group-stage fixtures**  
+- Saves to `fixtures_2026.csv`  
 
-Encodes team strengths
-Trains ML models to predict home & away goals
-Uses Random Forest Regressor for score prediction
-4️⃣ Tournament Simulation
+### 3️⃣ Machine Learning Model Training  
+- **Encodes team strengths**  
+- Trains **ML models** to predict **home & away goals**  
+- Uses **Random Forest Regressor** for score prediction  
 
-Predicts group stage results
-Simulates knockout rounds (Round of 16, Quarterfinals, Semifinals, Final)
-Determines FIFA World Cup 2026 Champion 🏆
-5️⃣ Data Export
+### 4️⃣ Tournament Simulation  
+- Predicts **group stage results**  
+- Simulates **knockout rounds** (Round of 16, Quarterfinals, Semifinals, Final)  
+- Determines **FIFA World Cup 2026 Champion** 🏆  
 
-Saves all results, including match predictions & tournament standings
+### 5️⃣ Data Export  
+- Saves all results, including **match predictions & tournament standings**  
+
 ---
 ## 🤝 Contributing
 Want to improve the model or add new features? Feel free to fork & contribute!
